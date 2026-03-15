@@ -2,25 +2,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Problem Statement](#problem-statement)
-2. [Project Overview](#project-overview)
-3. [Project Structure](#project-structure)
-4. [Dataset](#dataset)
-5. [Model Architecture](#model-architecture)
-6. [Word Embeddings — GloVe](#word-embeddings--glove)
-7. [Tech Stack](#tech-stack)
-8. [Getting Started](#getting-started)
-9. [Pipeline Walkthrough](#pipeline-walkthrough)
-10. [Results](#results)
-11. [Requirements](#requirements)
-12. [Contributing](#contributing)
-13. [License](#license)
-14. [Acknowledgements](#acknowledgements)
-
----
-
 ## Problem Statement
 
 The proliferation of fake news and misinformation has emerged as one of the most critical challenges of the modern digital era. With billions of articles, posts, and news pieces published online every day, it has become increasingly difficult for readers to distinguish credible information from fabricated or misleading content.
